@@ -1,6 +1,3 @@
-# best-py-libaries-for-ML
-understanding the best python libaries used in machine learning 
-
 # Best Python Libraries for Machine Learning
 
 **Last Updated:** 08 Aug, 2024
